@@ -1,1 +1,2 @@
-# myProject
+# my first code for demo....
+thanks to velocity
